@@ -1,0 +1,1 @@
+cout<< BinarySearch(root, 255); 
